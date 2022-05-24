@@ -17,3 +17,4 @@ Just playing around with the IBKR API. Building a trading bot that buys and sell
 - [ ] Read IV values
 - [ ] Calculate beta weighted delta for portfolio
   - [ ] Calculate impact of a trade on BW delta
+- [ ] Monitor multiple underlyings
